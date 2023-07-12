@@ -1,0 +1,8 @@
+F:\Mphasis training stuff\Dot netTraining\DAY- 3\ConAppDay3\ConsoleDay3\ConsoleDay3\bin\Debug\ConsoleDay3.exe.config
+F:\Mphasis training stuff\Dot netTraining\DAY- 3\ConAppDay3\ConsoleDay3\ConsoleDay3\bin\Debug\ConsoleDay3.exe
+F:\Mphasis training stuff\Dot netTraining\DAY- 3\ConAppDay3\ConsoleDay3\ConsoleDay3\bin\Debug\ConsoleDay3.pdb
+F:\Mphasis training stuff\Dot netTraining\DAY- 3\ConAppDay3\ConsoleDay3\ConsoleDay3\obj\Debug\ConsoleDay3.csproj.AssemblyReference.cache
+F:\Mphasis training stuff\Dot netTraining\DAY- 3\ConAppDay3\ConsoleDay3\ConsoleDay3\obj\Debug\ConsoleDay3.csproj.SuggestedBindingRedirects.cache
+F:\Mphasis training stuff\Dot netTraining\DAY- 3\ConAppDay3\ConsoleDay3\ConsoleDay3\obj\Debug\ConsoleDay3.csproj.CoreCompileInputs.cache
+F:\Mphasis training stuff\Dot netTraining\DAY- 3\ConAppDay3\ConsoleDay3\ConsoleDay3\obj\Debug\ConsoleDay3.exe
+F:\Mphasis training stuff\Dot netTraining\DAY- 3\ConAppDay3\ConsoleDay3\ConsoleDay3\obj\Debug\ConsoleDay3.pdb
